@@ -1,0 +1,36 @@
+﻿Build started 02.11.2011 14:39:42.
+     1>Project "C:\Данные\Учёба\Программирование\Проект\temp\temp\temp.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\temp.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\temp.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt temp.cpp /clr:nostdlib 
+         temp.cpp
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(91): error C2146: syntax error : missing ';' before identifier 'button1'
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(91): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(91): error C2146: syntax error : missing ';' before identifier 'Click'
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(91): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(91): error C2327: 'System::Windows::Forms::Control::Click' : is not a type name, static, or enumerator
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(91): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(91): error C2473: 'Click' : looks like a function definition, but there is no parameter list.
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(92): error C2143: syntax error : missing ';' before '+='
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(92): error C2238: unexpected token(s) preceding ';'
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(95): error C2143: syntax error : missing ';' before '}'
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(96): error C2059: syntax error : '}'
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(96): error C2143: syntax error : missing ';' before '}'
+     1>c:\данные\учёба\программирование\проект\temp\temp\Form1.h(96): error C2059: syntax error : '}'
+     1>temp.cpp(8): error C2337: 'STAThreadAttribute' : attribute not found
+     1>temp.cpp(12): error C2653: 'Application' : is not a class or namespace name
+     1>temp.cpp(12): error C3861: 'EnableVisualStyles': identifier not found
+     1>temp.cpp(13): error C2653: 'Application' : is not a class or namespace name
+     1>temp.cpp(13): error C3861: 'SetCompatibleTextRenderingDefault': identifier not found
+     1>temp.cpp(16): error C2653: 'Application' : is not a class or namespace name
+     1>temp.cpp(16): error C2061: syntax error : identifier 'Form1'
+     1>temp.cpp(16): error C3861: 'Run': identifier not found
+     1>Done Building Project "C:\Данные\Учёба\Программирование\Проект\temp\temp\temp.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.38

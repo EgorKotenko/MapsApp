@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CSharpGoogleMaps">
+</Property><Property Name="Solution File" Value="C:\Данные\Учёба\Программирование\Проект\temp1\CSharpGoogleMaps\CSharpGoogleMaps.sln">
+</Property><Property Name="Date" Value="3 декабря 2011 г.">
+</Property><Property Name="Time" Value="20:46:03">
+</Property></Properties><Event ErrorLevel="2" Project="C:\Данные\Учёба\Программирование\Проект\temp1\CSharpGoogleMaps\CSharpGoogleMaps.csproj" Source="CSharpGoogleMaps.csproj" Description="To access local IIS Web sites, you must install the following IIS components:&#xA;&#xA;      Internet Information Services&#xA;      IIS 6 Metabase and IIS 6 Configuration Compatibility&#xA;      ASP.NET&#xA;&#xA;In addition, you must run Visual Studio in the context of an administrator account.&#xA;&#xA;For more information, press F1.">
+</Event><Event ErrorLevel="2" Project="" Source="CSharpGoogleMaps.csproj" Description="The operation could not be completed. Неопознанная ошибка ">
+</Event></UpgradeLog>

@@ -1,0 +1,7 @@
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Project\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Project\Project\bin\Debug\Project.exe
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Project\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Project\Project\obj\x86\Debug\Project.exe
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Project\Project\obj\x86\Debug\Project.pdb
+C:\Данные\Учёба\Программирование (I,II,III,IV)\Проект\Project\Project\obj\x86\Debug\Project.exe
+C:\Данные\Учёба\Программирование (I,II,III,IV)\Проект\Project\Project\obj\x86\Debug\Project.pdb
