@@ -1,0 +1,9 @@
+C:\Данные\Учёба\Программирование\Проект\GridTmp\GridTmp\bin\Debug\GridTmp.exe
+C:\Данные\Учёба\Программирование\Проект\GridTmp\GridTmp\bin\Debug\GridTmp.pdb
+C:\Данные\Учёба\Программирование\Проект\GridTmp\GridTmp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Данные\Учёба\Программирование\Проект\GridTmp\GridTmp\obj\x86\Debug\GridTmp.Form1.resources
+C:\Данные\Учёба\Программирование\Проект\GridTmp\GridTmp\obj\x86\Debug\GridTmp.Properties.Resources.resources
+C:\Данные\Учёба\Программирование\Проект\GridTmp\GridTmp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Данные\Учёба\Программирование\Проект\GridTmp\GridTmp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Данные\Учёба\Программирование\Проект\GridTmp\GridTmp\obj\x86\Debug\GridTmp.exe
+C:\Данные\Учёба\Программирование\Проект\GridTmp\GridTmp\obj\x86\Debug\GridTmp.pdb

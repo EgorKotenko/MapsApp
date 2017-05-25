@@ -1,0 +1,18 @@
+C:\Данные\Учёба\Программирование\Проект\Maps\Maps\bin\Debug\Maps.exe
+C:\Данные\Учёба\Программирование\Проект\Maps\Maps\bin\Debug\Maps.pdb
+C:\Данные\Учёба\Программирование\Проект\Maps\Maps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Данные\Учёба\Программирование\Проект\Maps\Maps\obj\x86\Debug\Maps.Properties.Resources.resources
+C:\Данные\Учёба\Программирование\Проект\Maps\Maps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Данные\Учёба\Программирование\Проект\Maps\Maps\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Данные\Учёба\Программирование\Проект\Maps\Maps\obj\x86\Debug\Maps.exe
+C:\Данные\Учёба\Программирование\Проект\Maps\Maps\obj\x86\Debug\Maps.pdb
+C:\Данные\Учёба\Программирование\Проект\Maps\Maps\obj\x86\Debug\Maps.Form1.resources
+C:\Данные\Учёба\Программирование (I,II,III,IV)\Проект\Maps\Maps\obj\x86\Debug\Maps.exe
+C:\Данные\Учёба\Программирование (I,II,III,IV)\Проект\Maps\Maps\obj\x86\Debug\Maps.pdb
+C:\Данные\Учёба\Программирование (I,II,III,IV)\Проект\Maps\Maps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Данные\Учёба\Программирование (I,II,III,IV)\Проект\Maps\Maps\obj\x86\Debug\Maps.Form1.resources
+C:\Данные\Учёба\Программирование (I,II,III,IV)\Проект\Maps\Maps\obj\x86\Debug\Maps.Properties.Resources.resources
+C:\Данные\Учёба\Программирование (I,II,III,IV)\Проект\Maps\Maps\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Данные\Учёба\Программирование (I,II,III,IV)\Проект\Maps\Maps\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Данные\Учёба\Программирование (I,II,III,IV)\Проект\Maps\Maps\bin\Debug\Maps.exe
+C:\Данные\Учёба\Программирование (I,II,III,IV)\Проект\Maps\Maps\bin\Debug\Maps.pdb

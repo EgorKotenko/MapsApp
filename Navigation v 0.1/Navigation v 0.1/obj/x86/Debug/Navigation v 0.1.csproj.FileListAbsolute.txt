@@ -1,0 +1,13 @@
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\bin\Debug\Navigation v 0.1.exe
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\bin\Debug\Navigation v 0.1.pdb
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\obj\x86\Debug\MainWindow.baml
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\obj\x86\Debug\MainWindow.g.cs
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\obj\x86\Debug\App.g.cs
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\obj\x86\Debug\Navigation v 0.1_MarkupCompile.cache
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\obj\x86\Debug\Navigation v 0.1.g.resources
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\obj\x86\Debug\Navigation_v_0._1.Properties.Resources.resources
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\obj\x86\Debug\Navigation v 0.1.exe
+C:\Данные\Учёба\Программирование\Проект\Navigation v 0.1\Navigation v 0.1\obj\x86\Debug\Navigation v 0.1.pdb

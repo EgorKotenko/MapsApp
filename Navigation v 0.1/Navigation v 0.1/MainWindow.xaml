@@ -1,0 +1,25 @@
+﻿<Window x:Class="Navigation_v_0._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Awesome Maps v 1.0" Height="600" Width="450" ResizeMode="CanMinimize" Foreground="Black" Background="#FFE5F5F4">
+    <Grid>
+        <Button Content="Поиск" Height="50" Margin="55,460,0,0" Name="button1" Width="160" HorizontalAlignment="Left" Padding="1" FontSize="14">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0" />
+                    <GradientStop Color="#FFACCBCA" Offset="1" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="Маршруты" FontSize="14" Height="50" HorizontalAlignment="Left" Margin="235,460,0,0" Name="button2" Padding="1"  Width="160">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0" />
+                    <GradientStop Color="#FFACCBCA" Offset="1" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Border BorderBrush="Silver" BorderThickness="1" Height="311" HorizontalAlignment="Center" Name="border1" VerticalAlignment="Top" Width="400" Margin="14,129,14,0" />
+        <TextBox Height="45" HorizontalAlignment="Center" Name="textBox1" VerticalAlignment="Top" Width="300" Margin="64,55,64,0" Background="#FFECF5F5" BorderBrush="#FF387979" FontSize="16" MaxLines="1" />
+    </Grid>
+</Window>
